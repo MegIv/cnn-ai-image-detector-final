@@ -1,0 +1,31 @@
+{
+  "status": "evaluated",
+  "positive_class": "FAKE",
+  "class_mapping": {
+    "REAL": 0,
+    "FAKE": 1
+  },
+  "threshold": 0.5,
+  "test_samples": 20000,
+  "accuracy": 0.94805,
+  "precision_fake": 0.9585508136321769,
+  "recall_fake": 0.9366,
+  "f1_fake": 0.9474482828385008,
+  "roc_auc": 0.98860692,
+  "majority_baseline_accuracy": 0.5,
+  "majority_baseline_class": "REAL",
+  "confusion_matrix_labels": [
+    "REAL",
+    "FAKE"
+  ],
+  "confusion_matrix": [
+    [
+      9595,
+      405
+    ],
+    [
+      634,
+      9366
+    ]
+  ]
+}

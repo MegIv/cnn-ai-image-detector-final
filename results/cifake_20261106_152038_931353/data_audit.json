@@ -1,0 +1,27 @@
+{
+  "source_counts": {
+    "test/FAKE": 10000,
+    "test/REAL": 10000,
+    "train/FAKE": 50000,
+    "train/REAL": 50000
+  },
+  "removed_train_test_overlap": 378,
+  "removed_repeated_train_pixels": 920,
+  "repeated_test_pixels_retained": 38,
+  "split_counts": {
+    "train": {
+      "REAL": 40000,
+      "FAKE": 38961
+    },
+    "validation": {
+      "REAL": 10000,
+      "FAKE": 9741
+    },
+    "test": {
+      "REAL": 10000,
+      "FAKE": 10000
+    }
+  },
+  "scope": "SHA256 piksel RGB identik; kemiripan visual dan gambar turunan belum diperiksa.",
+  "test_policy": "Pertahankan seluruh test resmi; hapus overlap hanya dari train."
+}

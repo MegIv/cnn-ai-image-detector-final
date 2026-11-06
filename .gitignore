@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+kaggle.json
+.env
+*.zip
+results/smoke*/

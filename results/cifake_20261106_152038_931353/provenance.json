@@ -1,0 +1,25 @@
+{
+  "source_notebook": "https://colab.research.google.com/drive/1wz4pX37ydvBi5bJtEJ4QXYC7OzzLXtfy?usp=sharing",
+  "source_notebook_sha256": "2af56c0dab31fe44d26b1f4a6ad43fc59d092c3e6a3bf1c8ecaf75062df0e372",
+  "drive_modified_time_utc": "2026-11-06T15:45:17.236Z",
+  "run_name": "cifake_20261106_152038_931353",
+  "tensorflow_version_from_output": "2.21.0",
+  "gpu_detected_from_output": true,
+  "configured_max_epochs": 20,
+  "completed_epochs": 14,
+  "selected_epoch_from_logged_validation_loss": 10,
+  "epoch_log_precision": "Empat desimal sebagaimana dicetak di notebook; bukan CSV history asli.",
+  "changes_to_notebook": "Hanya teks markdown: status, pembahasan, dan petunjuk penyimpanan. Kode serta output eksekusi dipertahankan.",
+  "available_evidence": "Metrik, audit, log, dan PNG diekstrak dari output notebook tersimpan.",
+  "unavailable_original_files": [
+    "best_model.keras",
+    "run_config.json",
+    "training_history.csv",
+    "source_manifest.csv",
+    "train_manifest.csv",
+    "validation_manifest.csv",
+    "test_manifest.csv",
+    "test_predictions.csv"
+  ],
+  "limitations": "Tidak menjalankan ulang pelatihan dan belum memeriksa bobot model atau ZIP hasil Colab asli."
+}

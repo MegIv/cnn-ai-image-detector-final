@@ -1,0 +1,8 @@
+# Python 3.10–3.12 direkomendasikan. Versi aktual dicatat pada setiap run.
+tensorflow>=2.16,<2.22
+numpy>=1.26,<3
+pandas>=2.2,<3
+Pillow>=10,<14
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4
+kagglehub>=0.3,<1
